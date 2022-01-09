@@ -18,7 +18,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+</a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
 </a> <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="visualstudio" width="40" height="40"/> </a>
  </a> <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="visualstudio" width="40" height="40"/>
 </a> <a href="https://www.jetbrains.com/rider/" target="_blank" rel="noreferrer"> <img src="https://codeopinion.com/wp-content/uploads/2017/08/logo.png" alt="rider" width="40" height="40"/> 
@@ -27,7 +28,10 @@
 </a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> 
 </a> <a href="https://www.perforce.com/" target="_blank" rel="noreferrer"> <img src="https://img.informer.com/icons_mac/png/128/437/437456.png" alt="perforce" width="40" height="40"/> 
 </a> <a href="https://www.autodesk.ca/en/products/3ds-max/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"> <img src="https://knowledge.autodesk.com/sites/default/files/product-logo-sm/3ds-max-2017-badge-75x75.png" alt="3dsmax" width="40" height="40"/> 
-</a> </p>
+</a>
+</a> <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> <img src="https://www.opengl.org/img/opengl_logo.jpg" alt="opengl" width="40" height="40"/> 
+</a>
+</p>
 
 ## Examples of Work
 <img src="https://media.giphy.com/media/Lh30T0CDNVwfnB86Nv/giphy.gif" width="512" >
