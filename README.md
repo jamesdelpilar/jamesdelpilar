@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm James.</h1>
 <h3 align="center">I am a Game Programmer that is constantly learning to improve my skills.</h3>
 
-- 🌱 I’m currently learning **everything c++**
+ 🌱 I’m currently learning **everything c++**
 
-- 👨‍💻 All of my projects are available at [Website](https://jamesdelpilar.com/)
+ 👨‍💻 All of my projects are available at [Website](https://jamesdelpilar.com/)
 
-- 💬 Ask me about **anything**
+ 💬 Ask me about **anything**
 
-- 📫 How to reach me **jamesdelpilar@outlook.com**
+ 📫 How to reach me **jamesdelpilar@outlook.com**
 
-- ⚡ Fun fact: **Switched careers to become a game developer**
+ ⚡ Fun fact: **Switched careers to become a game developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
