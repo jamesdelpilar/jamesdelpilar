@@ -1,11 +1,10 @@
-### Hi there 👋
+### Hi I'm James, I am a Game Programmer that is constantly learning to imporove my skills.
 
 
 
-- 🔭 I’m currently working on a 2D game using SDL2
-- 🌱 I’m currently learning c++ with Unreal Engine 
-- 👯 I’m looking to collaborate on with other Game Developers
-- 🤔 I’m looking for help with SDL2
+- 🔭 I’m currently working on a a 3rd Person Action game (UE4 C++) and a 2D Game Engine (C++)
+- 🌱 I’m currently learning everything c++
+- 👯 I’m looking to collaborate with other game programmers and artists
 - 💬 Ask me about anything
 - 📫 How to reach me: [Email](jamesdelpilar@outlook.com)
 - 😄 Pronouns: He/Him
