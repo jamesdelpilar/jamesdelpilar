@@ -30,4 +30,4 @@
 </a> </p>
 
 ## Examples of Work
-<img src="" width="512" >
+<img src="https://media.giphy.com/media/Lh30T0CDNVwfnB86Nv/giphy.gif" width="512" >
