@@ -34,10 +34,10 @@
 </p>
 
 ## Examples of Work
-<img src="https://media.giphy.com/media/Lh30T0CDNVwfnB86Nv/giphy.gif" width="300" > </a>
-<img src="https://media.giphy.com/media/qbrUY95Pc2E2S9UdHD/giphy.gif" width="300" >
-<img src="https://media.giphy.com/media/1PuSxVjroBjDYKwgvd/giphy.gif" width="300" >
-<img src="https://media.giphy.com/media/wFDrlP9wB7eyXd1SZS/giphy.gif" width="300" >
-<img src="https://media.giphy.com/media/fdYnov2qqfKEnpCDU8/giphy.gif" width="300" >
-<img src="https://media.giphy.com/media/bHEtTWhSFOoYoqgikC/giphy.gif" width="300" >
+<img src="https://media.giphy.com/media/Lh30T0CDNVwfnB86Nv/giphy.gif" width="400" > </a>
+<img src="https://media.giphy.com/media/qbrUY95Pc2E2S9UdHD/giphy.gif" width="400" >
+<img src="https://media.giphy.com/media/1PuSxVjroBjDYKwgvd/giphy.gif" width="400" >
+<img src="https://media.giphy.com/media/wFDrlP9wB7eyXd1SZS/giphy.gif" width="400" >
+<img src="https://media.giphy.com/media/fdYnov2qqfKEnpCDU8/giphy.gif" width="400" >
+<img src="https://media.giphy.com/media/bHEtTWhSFOoYoqgikC/giphy.gif" width="400" >
 <img src="https://media.giphy.com/media/GNUtd27cj0SdXho36y/giphy.gif" width="150" >
