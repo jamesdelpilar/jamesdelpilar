@@ -22,7 +22,7 @@
 </a> <a href="https://www.jetbrains.com/rider/" target="_blank" rel="noreferrer"> <img src="https://codeopinion.com/wp-content/uploads/2017/08/logo.png" alt="rider" width="40" height="40"/> 
 </a> <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a> 
 </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> 
+</a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" height="40"/> 
 </a> <a href="https://www.perforce.com/" target="_blank" rel="noreferrer"> <img src="https://img.informer.com/icons_mac/png/128/437/437456.png" alt="perforce" width="40" height="40"/> 
 </a> <a href="https://www.autodesk.ca/en/products/3ds-max/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"> <img src="https://knowledge.autodesk.com/sites/default/files/product-logo-sm/3ds-max-2017-badge-75x75.png" alt="3dsmax" width="40" height="40"/> 
 </a>
