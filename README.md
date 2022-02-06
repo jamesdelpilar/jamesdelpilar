@@ -3,8 +3,6 @@
 
  🌱 I’m currently learning **everything c++**
 
- 💬 Ask me about **anything**
-
  📫 How to reach me **jamesdelpilar@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
